@@ -294,7 +294,7 @@
 
     this.scale = 50;
 
-    let col1 = '#440d5d';
+    let col1 = '#910833';
     let col2 = '#06790a';
     let col3 = '#086691';
 
