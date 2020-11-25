@@ -139,9 +139,9 @@
 
     this.standart_d20_dice_face_labels = [' ', '0', '1', '2', '3', '4', '5', '6', '7', '8',
             '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20'];
-    this.standart_d20_dice_face_labels1 = [' ', '0', '2', '4', '9', '9', '4', '2'];
-    this.standart_d20_dice_face_labels2 = [' ', '0', '1', '6', '8', '8', '6', '1'];
-    this.standart_d20_dice_face_labels3 = [' ', '0', '3', '5', '7', '7', '5', '3'];
+    this.standart_d20_dice_face_labels1 = [' ', '0', '3', '5', '7', '7', '5', '3'];
+    this.standart_d20_dice_face_labels2 = [' ', '0', '2', '4', '9', '9', '4', '2'];
+    this.standart_d20_dice_face_labels3 = [' ', '0', '1', '6', '8', '8', '6', '1'];
     this.standart_d100_dice_face_labels = [' ', '00', '10', '20', '30', '40', '50',
             '60', '70', '80', '90'];
 
